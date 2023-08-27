@@ -2,6 +2,16 @@
 
 This repo is a browser port of the [Babylonjs Editor FBXLoader](https://github.com/BabylonJS/Editor/tree/master/src/renderer/editor/loaders/fbx)
 
+# Update log (by GoatGirl98)
+
+### Added
+
+a testcase of glb animation
+
+### Todo
+
+transfer to fbx, add `public async loadAssetContainer` to enable `ImportAnimationsAsync` and etc.
+
 # Installation
 
 ### CDN
